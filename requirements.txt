@@ -1,2 +1,4 @@
 pyrogram
 tgcrypto
+ethon==0.1.2
+cryptg
