@@ -1,6 +1,5 @@
 import time, os, asyncio
 
-from .. import bot as Drone
 from .. import userbot, Bot, AUTH
 from .. import FORCESUB as fs
 from main.plugins.pyroplug import check, get_bulk_msg
